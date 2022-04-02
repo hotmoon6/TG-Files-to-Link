@@ -10,15 +10,15 @@
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
-      "value": ""
+      "value": "12581928"
   },
    "TG_API_HASH": {
       "description": " Your Telegram API hash. Get this value from my.telegram.org!",
-      "value": ""
+      "value": "9bd003806267466f904f91aa035d8991"
   },
    "TG_SESSION_NAME": {
       "description": "Run Console this (python3 GenerateStringSession.py) ",
-      "value": ""
+      "value": "linkgentrobot"
   },
    "HOST": {
       "description": "Leave the Same Value",
@@ -27,11 +27,11 @@
   },
    "PUBLIC_URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": ""
+      "value": "https://linkgent-robot.herokuapp.com"
   },
    "TG_START_MESG": {
       "description": "Set /start Message",
-      "value": ""
+      "value": "Welcome"
   }
  }
 }
